@@ -45,3 +45,21 @@ intelligent-taxi-trip-duration/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
+### Unit 1 — Environment & Project Setup
+- [x] Python 3.11 environment created
+- [x] Project structure created
+- [x] Required libraries installed
+- [x] Requirements file created
+- [x] Conda environment specification created
+- [x] Git repository initialized
+- [x] GitHub repository connected
+- [x] Initial project pushed to GitHub
+
+
+### Unit 2 — Logging, Exception Handling & Git
+- [ ] Logging
+- [ ] Custom exception handling
+- [ ] Data ingestion
+- [ ] Feature branch and Pull Request
