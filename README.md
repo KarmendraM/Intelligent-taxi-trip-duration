@@ -138,10 +138,10 @@ Deployment
 
 ### Unit 2 — Logging, Exception Handling & Git
 
-- [ ] Logging
-- [ ] Custom exception handling
-- [ ] Data ingestion
-- [ ] Feature branch and Pull Request
+- [x] Logging
+- [x] Custom exception handling
+- [x] Data ingestion
+- [x] Feature branch and Pull Request
 
 ### Machine Learning
 
@@ -163,7 +163,7 @@ Deployment
 
 Unit 1 — Environment and project setup completed.
 
-Unit 2 — Logging, exception handling, data ingestion, and Git workflow are currently in progress.
+Unit 2 — Logging, exception handling, data ingestion, and Git workflow completed.
 
 ## Development Workflow
 
