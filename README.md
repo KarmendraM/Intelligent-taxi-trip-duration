@@ -164,3 +164,30 @@ Deployment
 Unit 1 — Environment and project setup completed.
 
 Unit 2 — Logging, exception handling, data ingestion, and Git workflow are currently in progress.
+
+## Development Workflow
+
+The project follows a structured machine learning development workflow:
+
+```text
+Environment Setup
+        ↓
+Data Collection
+        ↓
+Data Validation
+        ↓
+Exploratory Data Analysis
+        ↓
+Feature Engineering
+        ↓
+Data Transformation
+        ↓
+Model Training
+        ↓
+Model Evaluation
+        ↓
+Hyperparameter Tuning
+        ↓
+Prediction Pipeline
+        ↓
+Deployment
